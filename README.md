@@ -1,5 +1,6 @@
 # Fertilized-egg-detecting
 Introduction
+
 Artificial egg candling suffers the disadvantage to low efficiency and higher risk for misidentification. This project proposed a possible computational method to differentiate fertilized eggs and non-fertilized eggs based on the amount of red pigment of the image.
 
 “Egg image” includes sample egg candling images we got from the internet.
